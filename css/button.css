@@ -11,9 +11,14 @@
   box-sizing: border-box;
   box-shadow: -.25rem .25rem .87rem rgba(255, 255, 255, .25);
   border-radius: 5rem;
+  text-align: center;
+  cursor: pointer;
 }
 
 .button.is-secondary{
+  background-image: url(../icons/icon-github.svg);
+  background-repeat: no-repeat;
+  background-position: 10% 50% ;
   background-color: unset;
   font: var(--button);
   padding-inline-start: 3.43rem;
