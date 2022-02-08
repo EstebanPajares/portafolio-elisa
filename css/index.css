@@ -1,0 +1,26 @@
+
+:root{
+  font-size: 16px;
+  /* documentando la tipografia */
+  --fontBase: 'Oxygen', sans-serif;
+  --headline1: bold 5.93rem/9.60rem var(--fontBase);
+  --headline2: bold 3.68rem/5.96rem var(--fontBase);
+  --headline3: bold 3rem/4.81rem var(--fontBase);
+  --headline4: bold 2.12rem/3.43rem var(--fontBase);
+  --headline5: bold 1.5rem/2.42rem var(--fontBase);
+  --body1: 1rem/1.61rem var(--fontBase);
+  --body2: .87rem/1.41rem var(--fontBase);
+  --button: bold .87rem/1.41rem var(--fontBase);
+  --caption: bold .75rem/1.21rem var(--fontBase);
+  /* documentando los colores */
+  --black: #0F0A0A;
+  --primary: #42E2B8;
+  --gradient: linear-gradient(135deg, #FAD7A1 0%, #E96D71 100%);
+}
+
+body{
+  background: var(--gradient);
+  color: var(--black);
+  min-block-size: 100vh;
+  font: var(--body1);
+}
