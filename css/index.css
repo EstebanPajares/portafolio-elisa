@@ -1,5 +1,6 @@
 @import './header.css';
 @import './button.css';
+@import './hero.css';
 
 :root{
   font-size: 16px;
