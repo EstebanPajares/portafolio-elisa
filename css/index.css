@@ -2,6 +2,8 @@
 @import './button.css';
 @import './hero.css';
 @import './menu.css';
+@import './ellipse.css';
+
 
 :root{
   font-size: 16px;
