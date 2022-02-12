@@ -4,6 +4,8 @@
 @import './menu.css';
 @import './ellipse.css';
 @import './message.css';
+@import './project.css';
+@import '/title.css';
 
 
 :root{
@@ -27,6 +29,8 @@
 
 body{
   background: var(--gradient);
-  color: var(--black);
   min-block-size: 100vh;
+  color: var(--black);
+  font: var(--body1);
+  margin: 0;
 }
