@@ -4,11 +4,12 @@
 
 .ellipse-content{
     background: radial-gradient(155% 155% at 50% 50%, rgba(40, 234, 232, 0.4) 0%, rgba(40, 234, 232, 0) 28.86%);;
-    backdrop-filter: blur(1rem);
+    backdrop-filter: blur(12.43rem);
     block-size: 25rem;
     inline-size: 25rem;
     margin-left: 23.56rem;
     border-radius: 50%;
+    border: none;
 }
 
 @media screen and (min-width:768px) {
