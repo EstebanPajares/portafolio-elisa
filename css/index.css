@@ -6,6 +6,7 @@
 @import './message.css';
 @import './project.css';
 @import './title.css';
+@import './testimony.css';
 
 
 :root{
@@ -21,6 +22,7 @@
   --body2: .87rem/1.41rem var(--fontBase);
   --button: bold .87rem/1.41rem var(--fontBase);
   --caption: bold .75rem/1.21rem var(--fontBase);
+  --testimony: bold 2.12rem/3.43rem var(--fontBase);
   /* documentando los colores */
   --black: #0F0A0A;
   --primary: #42E2B8;
