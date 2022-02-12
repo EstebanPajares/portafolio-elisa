@@ -32,5 +32,4 @@ body{
   min-block-size: 100vh;
   color: var(--black);
   font: var(--body1);
-  margin: 0;
 }
