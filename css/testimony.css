@@ -38,7 +38,10 @@
     margin-block-start: 5rem;
     margin-block-end: 5rem;
   }
-  .testimony p:last-child{
+  .testimony p{
     font: var(--testimony);
+  };
+  .testimony p:last-child{
+    font: var(--headline5);
   }
 }
