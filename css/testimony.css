@@ -40,7 +40,7 @@
   }
   .testimony p{
     font: var(--testimony);
-  };
+  }
   .testimony p:last-child{
     font: var(--headline5);
   }
