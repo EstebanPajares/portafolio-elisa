@@ -1,5 +1,6 @@
 @import './header.css';
 @import './button.css';
+@import './button-icon.css';
 @import './hero.css';
 @import './menu.css';
 @import './ellipse.css';
@@ -8,6 +9,8 @@
 @import './title.css';
 @import './testimony.css';
 @import './form.css';
+@import './social.css';
+@import './footer.css';
 
 
 :root{

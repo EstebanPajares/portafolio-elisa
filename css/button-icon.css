@@ -1,0 +1,17 @@
+.button-icon{
+  padding: .625rem;
+  border: 2px solid var(--black);
+  background: var(--primary);
+  box-sizing: border-box;
+  border-radius: .25rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button-icon img{
+  vertical-align: middle;
+}
+
+.button-icon:hover{
+  transform: scale(.95);
+}
