@@ -1,12 +1,12 @@
-# Portaolio-Elisa
+# Portafolio-Elisa
 Este es un proyecto implementado desde un diseño en Figma, utilizando la técnica Flexbox Layout y Componentes al 100%.
-Puedes encontrar más proyectos por implementar en la plataforma: ![leonidasesteban.com](https://leonidasesteban.com/proyectos")
+Puedes encontrar más proyectos por implementar en la plataforma: [leonidasesteban.com](https://leonidasesteban.com/proyectos")
 
-## Desktop
+## Portafolio-Elisa on desktop
 
 ![Portafolio-Elisa on desktop](./images/desktop.png)
 
-## Mobile
+## Portafolio-Elisa on mobile
 
 ![Portafolio-Elisa on mobile](./images/mobile.png)
 
