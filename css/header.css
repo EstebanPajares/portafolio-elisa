@@ -10,3 +10,7 @@
   gap: 1.5rem;
   align-items: center;
 }
+
+.logo:hover{
+  transform: scale(.95);
+}

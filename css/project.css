@@ -5,6 +5,7 @@
 
 .project-image img{
   max-inline-size: 100%;
+  margin-block-end: 1rem;
 }
 
 .project-description{
