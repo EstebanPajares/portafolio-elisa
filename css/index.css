@@ -34,6 +34,10 @@
   --gradient: linear-gradient(135deg, #FAD7A1 0%, #E96D71 100%);
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   background: var(--gradient);
   min-block-size: 100vh;
