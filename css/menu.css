@@ -24,5 +24,6 @@
   }
   .menu ul a:hover{
     color: var(--primary);
+    font-weight:bold;
   }
 }
